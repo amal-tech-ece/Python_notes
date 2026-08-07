@@ -1,0 +1,2 @@
+n="hai"
+print(n)
