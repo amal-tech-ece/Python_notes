@@ -1,0 +1,7 @@
+print("Welcome To Book My Bus")
+name=input("Enter Your Name:")
+age=int(input("Enter Your Age:"))
+ph_numer=int(input("Enter Your Phone Number:"))
+email=input("Enter Your Email:")
+print(f"Name:{name} \nAge:{age} \nPhone numer:{ph_numer} \nEmail:{email}")
+place_1=("1.Thiruvananthapuram","2.Kollam","3.Alappuzha")
