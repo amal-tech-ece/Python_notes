@@ -1,2 +1,6 @@
+hello world
+learn python
+learn java
+learn c
 goodbye
 goodbye
