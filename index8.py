@@ -66,6 +66,6 @@
 # f.writelines(['hello world\n','learn python\n','learn java\n','learn c\n','goodbye\n','goodbye\n'])
 # f.close()
 
-with open("sample5.txt","w") as f:
-    f.write("hello")
+# with open("sample5.txt","w") as f:
+#     f.write("hello")
 
