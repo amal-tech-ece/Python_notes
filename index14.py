@@ -10,8 +10,8 @@
 #         print("class method")
 # demo.info()
 
-class Demo:
-    @staticmethod
-    def utility():
-        print("static method")
-Demo.utility()
+# class Demo:
+#     @staticmethod
+#     def utility():
+#         print("static method")
+# Demo.utility()
