@@ -15,14 +15,14 @@ try:
 except mysql.connector.Error as err: 
     print(f"Error: {err}")
 
-cursor = conn.cursor()
-cursor.execute( 
-    "CREATE TABLE IF NOT EXISTS students (" 
-    "id INT AUTO_INCREMENT PRIMARY KEY," 
-    "name VARCHAR(255)," 
-    "age INT" 
-    ")" 
-    )
+# cursor = conn.cursor()
+# cursor.execute( 
+#     "CREATE TABLE IF NOT EXISTS students (" 
+#     "id INT AUTO_INCREMENT PRIMARY KEY," 
+#     "name VARCHAR(255)," 
+#     "age INT" 
+#     ")" 
+#     )
 
 # Inserting data
 # sql = "INSERT INTO students (name, age) VALUES (%s, %s)" 

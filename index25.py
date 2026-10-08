@@ -40,8 +40,8 @@ cursor.execute(
 # conn.commit()
 
 
-sql = "UPDATE products SET price = %s,WHERE product_name = %s" 
-values = (1000,"Laptop")
-cursor.execute(sql, values) 
-conn.commit()
+# sql = "UPDATE products SET price = %s,WHERE product_name = %s" 
+# values = (1000,"Laptop")
+# cursor.execute(sql, values) 
+# conn.commit()
 
